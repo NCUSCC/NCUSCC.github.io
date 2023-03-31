@@ -1,7 +1,7 @@
-title: SYSU-SCC # 站点标题
+title: NCU-SCC # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  Student Cluster Competition Team at Sun Yat-sen University
-url: https://scc.sysu.tech # 你的域名，例如 https://wu-kan.github.io
+  Student Cluster Competition Team at Nanchang University
+url: https://ncuscc.github.io/ # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -12,7 +12,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         comments: # 用于存储网页评论
           append: |
             <script src="https://utteranc.es/client.js"
-              repo="SYSU-SCC/SYSU-SCC.github.io"
+              repo="NCUSCC/NCUSCC.github.io"
               issue-term="url"
               theme="github-light"
               crossorigin="anonymous"
@@ -20,7 +20,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             ></script>
         default:
           body:
-            theme-base: theme-base-07 # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
+            theme-base: theme-base-0d # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
             layout-reverse: true # 开启后sidebar在右边，反之左边
             sidebar-overlay: true # 开启后正文不随sidebar移动而移动
           html_lang: zh # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
@@ -38,7 +38,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - title: '<i class="fas fa-address-book fa-fw"></i> Contact'
                 href: /Contact/
               - title: '<i class="fab fa-github fa-fw"></i> GitHub'
-                href: https://github.com/SYSU-SCC
+                href: https://ncuscc.github.io/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
               full_text_search: false # 可能导致缓慢的搜索和加载
@@ -194,7 +194,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                    "10/04/2012 11:03:56")// 建队时间？
+                    "10/04/2016 11:03:56")// 建队时间？
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改
@@ -232,7 +232,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - | # Copyright声明
                 <div>
                   <i class="fa-solid fa-copyright fa-fw"></i>
-                  2012-2022 SYSU-SCC
+                  2016-2023 NCU-SCC
                 </div>
             wordcount: # 全站字数统计
               enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）

@@ -26,8 +26,8 @@ layout: comments
 - Miscellaneous
 
 You can contact us with following emails:
-- [mailto:congruiyin@email.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
-- [ncuchenke@gmail.com](ncuchenke@gmail.com)
+- [congruiyin@email.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
+- [ncukechen@email.ncu.edu.cn](mailto:ncukechen@email.ncu.edu.cn)
 - [ruobingyao@163.com](mailto:ruobingyao@163.com)
 
 Thanks a lot for your help and we will win!

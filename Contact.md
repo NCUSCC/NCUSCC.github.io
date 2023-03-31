@@ -6,7 +6,7 @@ layout: comments
 ## Join us
 我们每年都会举办宣讲招新，如果你对超算怀有一颗热爱之心，欢迎参加我们的考核选拔
 
-![SC23_join](https://github.com/NCUSCC/NCUSCC.github.io/blob/latest/images/SC23_join.png)
+![SC23_join.png](https://cdnjson.com/images/2023/03/31/SC23_join.png)
 
 
 ## Discuss with us

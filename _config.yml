@@ -2,7 +2,7 @@ title: NCU-SCC # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   Student Cluster Competition Team at Nanchang University<br/>
   爆爆后花园<br/>
-  快来308
+  快来308<br/>
   Made by Congrui Yin
 url: https://ncuscc.github.io/ # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
@@ -202,7 +202,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     document.getElementById("run_time_hour"),
                     document.getElementById("run_time_minute"),
                     document.getElementById("run_time_second"),
-                     "28/03/2023 11:03:56")// 建队时间？
+                     "28/03/2022 11:03:56")// 建队时间？
                   </script>
                 </div>
               - | # 不蒜子页面统计，看不懂可不改

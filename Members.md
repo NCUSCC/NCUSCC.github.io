@@ -21,9 +21,9 @@ layout: comments
 
 ## Grade 19
 
-- [Ruobing Yao] (https://good.ncu.edu.cn/~yrb/) (20'21'22'**23'(as coach)**)
+- [Ruobing Yao](https://good.ncu.edu.cn/~yrb/) (20'21'22'**23'(as coach)**)
 - Yuxuan Li (20'21'22') 
-- [Chong Gao] (https://good.ncu.edu.cn/~GaoC/) (22')
+- [Chong Gao](https://good.ncu.edu.cn/~GaoC/) (22')
 - Jiahao Chen (20'21'22') 
 - Xiaohao Zhang (20'21'22') 
 - Xiangyu Deng

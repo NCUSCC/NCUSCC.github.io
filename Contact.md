@@ -4,14 +4,14 @@ layout: comments
 ---
 
 ## Join us
-我们每年都会举办宣讲招新，如果你对超算怀有一颗热爱之心，欢迎参加我们的考核选拔
+我们每年都会举办宣讲招新，如果你对超算怀有一颗热爱之心，欢迎参加我们的考核选拔~
 
-![SC23_join.png](https://cdnjson.com/images/2023/03/31/SC23_join.png)
+<div align=center><img src="https://cdnjson.com/images/2023/03/31/SC23_join.png"></div>
 
 
 ## Discuss with us
 
-- [ncuscc@email.scc.ncu.cn](mailto:congruiyin@email.ncu.cn)
+- [ncuscc@email.scc.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
 
 ## Sponsor us
 
@@ -26,7 +26,7 @@ layout: comments
 - Miscellaneous
 
 You can contact us with following emails:
-- [congruiyin@email.ncu.cn](mailto:congruiyin@email.ncu.cn)
+- [mailto:congruiyin@email.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
 - [ncuchenke@gmail.com](ncuchenke@gmail.com)
 - [ruobingyao@163.com](mailto:ruobingyao@163.com)
 

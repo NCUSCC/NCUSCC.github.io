@@ -26,6 +26,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           html_lang: zh # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
           sidebar: # 此配置项下是一些关于侧边栏的配置
             disable: false # 是否不显示sidebar
+            img: https://github.com/JerryYin777/JerryYin777.github.io/blob/main/picture/Ncu_logo.jpg
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> Index'
                 href: /

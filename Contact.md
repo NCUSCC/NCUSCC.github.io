@@ -5,11 +5,11 @@ layout: comments
 
 ## Join us
 
-Coming soon!
+QQ群号：937188493
 
 ## Discuss with us
 
-- [scc[at]mail.scc.sysu.tech](mailto:scc@mail.scc.sysu.tech)
+- [scc[at]mail.scc.ncu.cn](mailto:congruiyin@email.ncu.cn)
 
 ## Sponsor us
 
@@ -23,5 +23,7 @@ Coming soon!
 - Enterprise (in HPC/AI domain) experience and tutorial
 - Miscellaneous
 
-- [huangd79[at]mail.sysu.edu.cn](mailto:huangd79@mail.sysu.edu.cn)
-- [chenzhg29[at]mail.sysu.edu.cn](mailto:chenzhg29@mail.sysu.edu.cn)
+
+- [congruiyin@email.ncu.cn](mailto:congruiyin@email.ncu.cn)
+- [ncuchenke@gmail.com](ncuchenke@gmail.com)
+- [ruobingyao@163.com](mailto:ruobingyao@163.com)

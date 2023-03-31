@@ -9,13 +9,13 @@ Nanchang University is the only 211 project university in Jiangxi Province, whic
 
 ## 2023
 
-### We are going to participate in SC23 SCC in Denver,U.S.A.
+**We are going to participate in SC23 SCC in Denver, U.S.A.**
 
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/_20230331152848.md.jpg"></div>
 
 ## 2022
 
-### We have won two second prizes in ASC22(8%)
+**We have won two second prizes in ASC22(8%)**
 
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/ASC22_2.md.png"></div>
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/ASC22_1.md.png"></div>

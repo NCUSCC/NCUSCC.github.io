@@ -1,5 +1,5 @@
 ---
-title: Welcome to NCU-SCC
+title: Welcome
 layout: page
 ---
 

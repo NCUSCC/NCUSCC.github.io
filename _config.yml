@@ -371,7 +371,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               </style>
         page:
           title: # 为每个页面自动生成一个 H1 title
-            enable: false
+            enable: true
           prepend:
             - | # 标题和引用前插一个图标
               <style>

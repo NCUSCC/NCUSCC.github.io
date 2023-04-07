@@ -10,7 +10,11 @@ layout: comments
 
 与此同时，我们的超算队伍主要依托于NCU GOOD Lab(泛在数据分析与优化实验室)，全年面向有志向做科研的本科生进行招新，如果你有意加入，欢迎查看GOOD Lab的[实验室主页](https://good.ncu.edu.cn/)和[博客](https://good.ncu.edu.cn/LabBlogs)获取更加详细的信息.
 
+我们的线下地点位于南昌大学前湖校区北院信工楼A308，同样欢迎和我们进行线下沟通~
+
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/SC23_join.png"></div>
+
+
 
 ## Discuss with us
 

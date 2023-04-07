@@ -19,7 +19,7 @@ Although we have no prior experience in this competition, we firmly believe that
 
 **We won two second prizes in [ASC22](http://www.asc-events.net/ASC22/Preliminary/) (all ranks top 8%) under the leadership of [Ruobing Yao](https://good.ncu.edu.cn/~yrb/) and Yuxuan Li.** 
 
-During this competition,we have overcome Yuan Large Language Model Challenge and DeepMD Challenge.
+During this competition, we have overcome Yuan Large Language Model Challenge and DeePMD Challenge.
 
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/ASC22_2.md.png"></div>
 
@@ -31,7 +31,7 @@ During this competition,we have overcome Yuan Large Language Model Challenge and
 
 Training large-scale language model like Yuan is difficult because it requires not only massive computing resources, but also complex training methods to efficiently process a large number of parameters. We complete Yuan Large Language Model Chanllenge in 67.75h using 4 32GB Tesla V100 DGXS, ZeRO parallel strategy and various acceleration training methods.
 
-Our open-source solution is 
+Our solution will be open-sourced soon. 
 
 ### DeePMD CHALLENGE
 
@@ -39,8 +39,14 @@ Traditional models applied in molecular dynamics (MD) usually are density functi
 
 DeePMD-kit is a realization of Deep Potential, it is a deep learning package for many-body potential energy representation and molecular dynamics, which can written in Python/C++. In this challenge,we are required to make improvements on the training procedure. We end up with the speed results that are **7.946(watewr), 3.121(mgalcu), 1.728(copper)** compared to the original results, **through the optimization of custom operators,Compressed Training**.  
 
-Our open-source solution is 
+Our solution will be open-sourced soon. 
 
-## 2021
+## 2020-2021
 
-**We won two second prizes in ASC22(all ranks top 8%)**
+**We won two second prizes in ASC20-21 (all ranks top 8%) under the leadership of Haichuan Hu and Sheng Yi**
+
+During this competition, we have overcome Language Exam Challenge, QuEST Challenge and PRESTO Challenge.
+
+<div align=center><img src="https://cdnjson.com/images/2023/04/08/photo1.md.png"></div>
+
+<div align=center><img src="https://cdnjson.com/images/2023/04/08/photo2.md.png"></div>

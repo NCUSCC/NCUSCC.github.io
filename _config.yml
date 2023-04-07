@@ -273,6 +273,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 title="RSS"
                 type="application/rss+xml"
               />
+            - | # 网站小图标，可换成你自己的图片，改href中的部分即可
+              <link
+                rel="apple-touch-icon-precomposed"
+                href="https://cdnjson.com/images/2023/03/31/Ncu_logo.jpg"
+              />
+              <link
+                rel="shortcut
+                icon"
+                href="https://cdnjson.com/images/2023/03/31/Ncu_logo.jpg"
+              />
             - | # 来自lanyon的页面样式，不要改
               <link
                 rel="stylesheet"

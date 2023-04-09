@@ -60,3 +60,7 @@ Prof. Qiegen Liu is our advisor. He (Senior Member, IEEE) received the B.S. degr
 ## Grade 16 and former
 
 - WeiZheng Wu (19'20')
+- Jiacheng Huang (18')
+- Yunxiao Du (18')
+- Haifan Gong (18')
+- Yingkai Fu (18')

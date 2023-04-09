@@ -18,7 +18,7 @@ layout: comments
 
 ## Discuss with us
 
-- [scc@ncuscc.tech](mailto:congruiyin@ncuscc.tech)
+- [ncuscc@email.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
 
 ## Sponsor us
 

@@ -21,13 +21,13 @@ Prof. Qiegen Liu is our advisor. He (Senior Member, IEEE) received the B.S. degr
 
 ## Grade 21
 
-- [Congrui Yin](https://good.ncu.edu.cn/~YinCR/) (22'23')
+- [Congrui Yin](https://www.creallatie.icu/) (22'23')
 - Shuichen Ji (23')
 
 
 ## Grade 20
 
-- [Ke Chen](https://good.ncu.edu.cn/~ChenK/) (22'23')
+- [Ke Chen](https://kechen666.github.io/EnglishPage.html) (22'23')
 - Guoning Huang (22'23')  
 - [Yujie Chen](https://good.ncu.edu.cn/~ChenYJ/) (22')
 - [Xinyu Xiao](https://good.ncu.edu.cn/~XiaoXY/) (22')

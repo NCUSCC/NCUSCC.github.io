@@ -9,7 +9,7 @@ Nanchang University is the only 211 project university in Jiangxi Province, whic
 
 ## 2023
 
-**We are invited to observe [ASC22 Final](http://www.asc-events.net/ASC22/index.php), a nice journey for everyone**
+**We are invited to observe [ASC22 Final](http://www.asc-events.net/ASC22/index.php), a nice journey for everyone.**
 
 <div align=center><img src="https://www.cdnjson.com/images/2023/05/10/1683707898.md.png"></div>
 

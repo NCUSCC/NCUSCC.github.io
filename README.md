@@ -11,9 +11,15 @@ Nanchang University is the only 211 project university in Jiangxi Province, whic
 
 **Before we take part in SC23, we are going to USTC to observe [ASC22 Final](http://www.asc-events.net/ASC22/index.php)**
 
-**We will be participating in [SC23 SCC](https://studentclustercompetition.us/) in Denver, USA, under the leadership of [Ke Chen](https://kechen666.github.io/EnglishPage.html).**
+<div align=center><img src="https://www.cdnjson.com/images/2023/05/10/1683707898.md.png"></div>
 
-Although we have no prior experience in this competition, we firmly believe that we can do our best. **(Try to beat THU haha!!)**
+<div align=center><img src="https://www.cdnjson.com/images/2023/05/10/asc22ob1.md.jpg"></div>
+
+**We will be participating in [SC23 SCC](https://studentclustercompetition.us/) in Denver, USA, under the leadership of [Ke Chen](https://kechen666.github.io/EnglishPage.html).** Although we have no prior experience in this competition, we firmly believe that we can do our best. **(Try to beat THU haha!!)**
+
+~~However, due to not finding supplier support, it is very likely that we will not be able to participate in SC and will have to switch to IndySCC.~~
+
+
 
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/_20230331152848.md.jpg"></div>
 

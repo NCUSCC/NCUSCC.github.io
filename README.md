@@ -39,7 +39,7 @@ During this competition, we have overcome Yuan Large Language Model Challenge an
 
 Training large-scale language model like Yuan is difficult because it requires not only massive computing resources, but also complex training methods to efficiently process a large number of parameters. We complete Yuan Large Language Model Chanllenge in 67.75h using 4 32GB Tesla V100 DGXS, ZeRO parallel strategy and various acceleration training methods.
 
-Our solution will be open-sourced soon. 
+Our solution can be seen [here](https://github.com/NCUSCC/ASC22-Yuan). 
 
 ### DeePMD CHALLENGE
 
@@ -47,7 +47,7 @@ Traditional models applied in molecular dynamics (MD) usually are density functi
 
 DeePMD-kit is a realization of Deep Potential, it is a deep learning package for many-body potential energy representation and molecular dynamics, which can written in Python/C++. In this challenge,we are required to make improvements on the training procedure. We end up with the speed results that are **7.946(watewr), 3.121(mgalcu), 1.728(copper)** compared to the original results, **through the optimization of custom operators,Compressed Training**.  
 
-Our solution will be open-sourced soon. 
+Our solution can be seen [here](https://github.com/NCUSCC/ASC22-DeePMD). 
 
 ## 2020-2021
 

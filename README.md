@@ -15,9 +15,7 @@ Nanchang University is the only 211 project university in Jiangxi Province, whic
 
 <div align=center><img src="https://www.cdnjson.com/images/2023/05/10/asc22ob1.md.jpg"></div>
 
-**We will be participating in [SC23 SCC](https://studentclustercompetition.us/) in Denver, USA, under the leadership of [Ke Chen](https://kechen666.github.io/EnglishPage.html).** Although we have no prior experience in this competition, we firmly believe that we can do our best. **(Try to beat THU haha!!)**
-
-~~However, due to not finding supplier support, it is very likely that we will not be able to participate in SC and will have to switch to IndySCC.~~
+**We will be participating in [SC23 SCC](https://studentclustercompetition.us/) in Denver, USA, under the leadership of [Ke Chen](https://kechen666.github.io/EnglishPage.html).** Although we have no prior experience in this competition, we firmly believe that we can do our best. Due to not finding supplier support, we are going to take part in IndySCC with worldwide schools, it's a part of SCC and mainly for those schools with fewer vendors or experiences. 
 
 
 
@@ -37,13 +35,13 @@ During this competition, we have overcome Yuan Large Language Model Challenge an
 
 ### YUAN LARGE LANGUAGE MODEL CHALLENGE
 
-Training large-scale language model like Yuan is difficult because it requires not only massive computing resources, but also complex training methods to efficiently process a large number of parameters. We complete Yuan Large Language Model Chanllenge in 67.75h using 4 32GB Tesla V100 DGXS, ZeRO parallel strategy and various acceleration training methods.
+Training large-scale language model like Yuan is difficult because it requires not only massive computing resources but also complex training methods to efficiently process a large number of parameters. We complete Yuan Large Language Model challenge in 67.75h using 4 32GB Tesla V100 DGXS, ZeRO parallel strategy, and various acceleration training methods.
 
 Our solution can be seen [here](https://github.com/NCUSCC/ASC22-Yuan). 
 
 ### DeePMD CHALLENGE
 
-Traditional models applied in molecular dynamics (MD) usually are density functional theory (DFT) models and empirical force fields (EFF)-based models. The former has a quantum mechanical precision but can not handle large system, while as the latter is efficient but are limited by the transferability of the model. In recent years, machine learning based on MD(MLMD) methods tackle this dilemma.As one of such model, Deep Potential achieve the balance between accuracy and efficiency.
+Traditional models applied in molecular dynamics (MD) usually are density functional theory (DFT) models and empirical force fields (EFF)-based models. The former has a quantum mechanical precision but can not handle large system, while the latter is efficient but are limited by the transferability of the model. In recent years, machine learning based on MD(MLMD) methods tackle this dilemma. As one such model, Deep Potential achieves the balance between accuracy and efficiency.
 
 DeePMD-kit is a realization of Deep Potential, it is a deep learning package for many-body potential energy representation and molecular dynamics, which can written in Python/C++. In this challenge,we are required to make improvements on the training procedure. We end up with the speed results that are **7.946(watewr), 3.121(mgalcu), 1.728(copper)** compared to the original results, **through the optimization of custom operators,Compressed Training**.  
 
@@ -53,7 +51,7 @@ Our solution can be seen [here](https://github.com/NCUSCC/ASC22-DeePMD).
 
 **We won two second prizes in ASC20-21 (all ranks top 8%) under the leadership of Haichuan Hu and Sheng Yi**
 
-During this competition, we have overcome Language Exam Challenge, QuEST Challenge and PRESTO Challenge.
+During this competition, we have overcome Language Exam Challenge, QuEST Challenge, and PRESTO Challenge.
 
 <div align=center><img src="https://cdnjson.com/images/2023/04/08/photo1.md.png"></div>
 

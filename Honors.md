@@ -7,6 +7,7 @@ layout: comments
 
 |           Competition           | Rank |                        Notes                        |                        Summary                        |
 | :-----------------------: | :--: | :-------------------------------------------------: |:-------------------------------------------------: |
+|      SCC23        |  Rank 7/15   |                Team NCUSCC                  |        **Next time we must sprint for top 3**           |
 |      ASC22        |  Second Prize   |                Team Ruobing Yao                  |        **Next time we must sprint for first prize**           |
 |      ASC22        |  Second Prize   |                Team Yuxuan Li                 |        **Next time we must sprint for first prize**           |
 |      ASC20-21        |  Second Prize   |             Team Haichuan Hu                  |        **Next time we must sprint for first prize**           |

@@ -12,7 +12,7 @@ layout: comments
 
 我们的线下地点位于南昌大学前湖校区北院信工楼A308，同样欢迎和我们进行线下沟通~
 
-<div align=center><img src="https://cdnjson.com/images/2023/11/24/1.md.jpg"></div>
+<div align=center><img src="https://cdnjson.com/images/2023/11/24/ASC24.md.png"></div>
 
 ## Discuss with us
 

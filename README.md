@@ -27,7 +27,7 @@ We are going to participate in [ASC24](http://www.asc-events.net/ASC24), if you 
 
 <div align=center><img src="https://cdnjson.com/images/2023/03/31/_20230331152848.md.jpg"></div>
 
-Finally, we completed all challenges, although we have not enrolled in **top 3**, and you can see our experience in [IndySCC Website](https://studentclustercompetition.us/2023/Indy.html)
+Finally, we completed all challenges, although we have not enrolled in **top 3**, and you can see our experience in [IndySCC Website](https://studentclustercompetition.us/2023/Indy.html).
 
 <div align=center><img src="https://cdnjson.com/images/2023/11/24/1.md.jpg"></div>
 

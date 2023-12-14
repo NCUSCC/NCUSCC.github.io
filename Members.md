@@ -13,10 +13,14 @@ Prof. Zichen Xu is our advisor. He is the associate dean of the school of mathem
 
 Prof. Qiegen Liu is our advisor. He (Senior Member, IEEE) received the B.S. degree in applied mathematics from Gannan Normal University, Ganzhou, China, in 2005, and the M.S. degree in computation mathematics and the Ph.D. degree in biomedical engineering from Shanghai Jiao Tong University (SJTU), Shanghai, China, in 2009 and 2012, respectively.,Since 2012, he has been with the School of Information Engineering, Nanchang University, Nanchang, China, where he is currently a Professor. From 2015 to 2017, he held a post-doctoral position with the University of Illinois Urbana–Champaign (UIUC), Champaign, IL, USA, and the University of Calgary, Calgary, AB, Canada. His current research interests include sparse representations, deep learning, and their applications in image processing, computer vision, and magnetic resonance imaging (MRI) reconstruction.
 
+## Grade 23
+- [Pingye Wang](https://good.ncu.edu.cn/~WangPY) (24')
+- Jiming Sun (24')
+
 ## Grade 22
 
 - Mingkun Zhang (23')
-- Yuhao Shen (23')
+- Yuhao Shen (23'24')
 - Fuxiang Zheng (24')
 - [Weihan Yi](https://good.ncu.edu.cn/~YiWH) (24')
 
@@ -24,6 +28,7 @@ Prof. Qiegen Liu is our advisor. He (Senior Member, IEEE) received the B.S. degr
 ## Grade 21
 
 - [Congrui Yin](https://www.creallatie.icu/) (22'23'**24'(as coach)**)
+- Jiarong Song (24')
 - Shuichen Ji (23')
 
 

@@ -9,19 +9,17 @@ Nanchang University is the only 211 project university in Jiangxi Province, that
 
 ## 2024
 
-We are going to participate in [ASC24](http://www.asc-events.net/ASC24), if you are a self-motivated student at Nanchang University, welcome to join us!
+### 2024.02
+We participated in ASC24 and won second prize, congratulations to Jiarong, Fuxiang, Weihan, Yuhao, and Pingye!
 
-**Be careful: if you are willing to join NCUSCC, please complete our [collection table](https://forms.gle/zcQrCWvdEF9fQYkk8) and complete our [selection test](https://github.com/NCUSCC/NCUSCC_ASC24_Selection_Test).**
+<div align=center><img src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v28d7344b827204b3f9ca028d7159472be.jpg"></div>
+
+### 2023.12
+We are going to participate in [ASC24](http://www.asc-events.net/ASC24), if you are a self-motivated student at Nanchang University, welcome to join us!
 
 <div align=center><img src="https://cdnjson.com/images/2023/11/24/ASC24.md.png"></div>
 
 ## 2023
-
-**We are invited to observe [ASC22 Final](http://www.asc-events.net/ASC22/index.php), a nice journey for everyone.**
-
-<div align=center><img src="https://www.cdnjson.com/images/2023/05/10/1683707898.md.png"></div>
-
-<div align=center><img src="https://www.cdnjson.com/images/2023/05/10/asc22ob1.md.jpg"></div>
 
 **We participated in [SC23 SCC](https://studentclustercompetition.us/) in Denver, USA, under the leadership of [Ke Chen](https://kechen666.github.io/EnglishPage.html).** Although we have no prior experience in this competition, we firmly believe that we can do our best. Due to not finding supplier support, we are going to take part in IndySCC with worldwide schools, it's a part of SCC and mainly for those schools with fewer vendors or experiences. 
 
@@ -30,6 +28,12 @@ We are going to participate in [ASC24](http://www.asc-events.net/ASC24), if you 
 Finally, we completed all challenges, although we have not enrolled in **top 3**, and you can see our experience in [IndySCC Website](https://studentclustercompetition.us/2023/Indy.html).
 
 <div align=center><img src="https://cdnjson.com/images/2023/11/24/1.md.jpg"></div>
+
+**We are invited to observe [ASC22 Final](http://www.asc-events.net/ASC22/index.php), a nice journey for everyone.**
+
+<div align=center><img src="https://www.cdnjson.com/images/2023/05/10/1683707898.md.png"></div>
+
+<div align=center><img src="https://www.cdnjson.com/images/2023/05/10/asc22ob1.md.jpg"></div>
 
 ## 2022
 

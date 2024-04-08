@@ -30,8 +30,4 @@ layout: comments
 - Enterprise (in HPC/AI domain) experience and tutorial
 - Miscellaneous
 
-You can contact us with following emails:
-- [ncukechen@email.ncu.edu.cn](mailto:ncukechen@email.ncu.edu.cn)
-- [congruiyin@email.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
-
 Thanks a lot for your kind help and we will win!

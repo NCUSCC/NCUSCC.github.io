@@ -27,7 +27,7 @@ Prof. Qiegen Liu is our advisor. He (Senior Member, IEEE) received the B.S. degr
 
 ## Grade 21
 
-- [Congrui Yin](https://www.creallatie.icu/) (22'23'**24'(as coach)**)
+- [Congrui Yin](https://jerrysys.top) (22'23'**24'(as coach)**)
 - Jiarong Song (24')
 - Shuichen Ji (23')
 
